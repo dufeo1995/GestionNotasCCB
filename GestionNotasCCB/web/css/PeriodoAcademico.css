@@ -1,0 +1,64 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27/10/2017, 07:54:58 PM
+    Author     : Duvan Otero
+*/
+
+//Estilos relativos al Cuerpo 
+
+body {
+    background-color: gray;
+	-webkit-box-shadow: 2px 2px 25px #CCCCCC;
+	-moz-box-shadow: 2px 2px 25px #CCCCCC;
+	box-shadow: 2px 2px 25px #CCCCCC;
+}
+
+#main {
+	height:100%;
+	background-color:#999;
+}
+	
+#head {
+	text-align:center;
+	height:50px;
+	border-bottom-style:double;
+	background-color:#333;
+	color:#CCC;
+	vertical-align:central
+}
+#head:h1{
+	text-transform:capitalize;
+}
+
+#menu {
+	width:70px;
+	border-right-style:double;	
+	
+}
+
+#footer {
+	background-color:#000;
+	color:#FFF;
+	text-align:center;
+}
+.boton {
+	background-color:#666;
+	color:#FFF;
+	text-align:center;
+}
+.boton:hover{
+	background-color:#003;
+}
+a {
+    color: aquamarine
+}
+
+h1 {
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: 
+}
